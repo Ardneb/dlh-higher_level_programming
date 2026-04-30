@@ -12,3 +12,5 @@ Python script that prints a string with the help of 2 variables
 Python script to learn string slicing
 ## 8-concat_edges.py
 Python script to learn concatenate string slicing
+## 9-easter_egg.py
+Python script that prints "The Zen of Python", by TimPeters
