@@ -12,5 +12,7 @@ This program prints all numbers from 0 to 98 in decimal and in hexadecimal
 This program prints numbers from 0 to 99 in on line seperated by , and a space except for after the last number
 ## 6-print_comb3.py
 This program prints numbers all possible different combinations of two digits
-# 7-islower.py
+## 7-islower.py
 Write a function that checks for lowercase character
+## 8-uppercase.py
+Write a function that prints a string in uppercase followed by a new line
