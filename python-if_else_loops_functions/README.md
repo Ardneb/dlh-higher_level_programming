@@ -22,3 +22,5 @@ Write a function that prints the last digit of a number
 Write a function that adds two integers and returns the result
 ## 11-pow.py
 Write a function that computes a to the power of b and return the value
+## 12-fizzbizz.py
+Write a function that prints the numbers from 1 to 100 separated by a space
