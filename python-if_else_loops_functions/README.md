@@ -6,3 +6,5 @@ This program will assign a random signed number to the variable number each time
 This program prints the ASCII alphabet, in lowercase, not followed by a new line.
 ## 3-print_albhabt.py
 This program prints the ASCII alphabet, except q and e, in lowercase, not followed by a new line.
+## 4-print_hexa.py
+This program prints all numbers from 0 to 98 in decimal and in hexadecimal
