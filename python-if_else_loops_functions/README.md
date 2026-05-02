@@ -10,3 +10,5 @@ This program prints the ASCII alphabet, except q and e, in lowercase, not follow
 This program prints all numbers from 0 to 98 in decimal and in hexadecimal
 ## 5-print_comb2
 This program prints numbers from 0 to 99 in on line seperated by , and a space except for after the last number
+## 6-print_comb3.py
+This program prints numbers all possible different combinations of two digits
