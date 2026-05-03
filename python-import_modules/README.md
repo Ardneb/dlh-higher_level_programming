@@ -6,3 +6,5 @@ Write a program that imports functions from the file calculator_1.py, does some 
 Write a program that prints the number of and the list of its arguments
 ## 3-infintite_add.py
 Write a program that prints the result of the addition of all arguments
+## 4-hidden_discovery.py
+Write a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally in your sandbox using curl)
