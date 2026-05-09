@@ -3,7 +3,7 @@ def add_tuple(tuple_a=(), tuple_b=()):
     if len(tuple_a) == 0:
         a = (0, 0)
     elif len(tuple_a) == 1:
-        a = (tupl_a[0], 0)
+        a = (tuple_a[0], 0)
     else:
         a = tuple_a
 
