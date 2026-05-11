@@ -16,3 +16,5 @@ Write a function that prints a matrix of integers
 Write a function that adds 2 tuples
 ## 8-multiple_returns.py
 Write a function that returns a tuple with the length of a string and its first character
+## 9-max_integer.py
+Write a function that finds the biggest integer of a list
