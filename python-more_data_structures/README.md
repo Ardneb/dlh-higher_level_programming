@@ -10,3 +10,5 @@ Write a function that returns a set of common elements in two sets
 Write a function that returns a set of all elements present in only one set
 ## 5-number_keys.py
 Write a function that returns the number of keys in a dictionary
+## 6-print_sorted_dictionary.py
+Write a function that prints a dictionary by ordered keys
