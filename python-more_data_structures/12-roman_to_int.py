@@ -5,12 +5,12 @@ def roman_to_int(roman_string):
         number = 0
         for i in range(0, len(roman_string)):
             if i == len(roman_string) - 1:
-                number = number + roman_dict[roman_string[i]]
-            elif roman_dict[roman_string[i]] > roman_dict[roman_string[i + 1]]:
-                number = number + roman_dict[roman_string[i]]
-            elif roman_dict[roman_string[i]] < roman_dict[roman_string[i + 1]]:
-                number = number - roman_dict[roman_string[i]]
+                number = number + r_dict[roman_string[i]]
+            elif r_dict[roman_string[i]] > r_dict[roman_string[i + 1]]:
+                number = number + r_dict[roman_string[i]]
+            elif r_dict[roman_string[i]] < r_dict[roman_string[i + 1]]:
+                number = number - r_dict[roman_string[i]]
             else:
-                number = number + roman_dict[roman_string[i]]
+                number = number + r_dict[roman_string[i]]
         return number
     return 0
