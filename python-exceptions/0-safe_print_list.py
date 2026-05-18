@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 def safe_print_list(my_list=[], x=0):
-    try: print(my_list[:x])
-    except: print(my_list[:len(my_list)])
+    try: print("{}".format(my_list[:x]))
+    except: print("{}".format(my_list[:len(my_list)]))
