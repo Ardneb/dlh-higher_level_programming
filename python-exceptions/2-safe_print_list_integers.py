@@ -7,6 +7,7 @@ def safe_print_list_integers(my_list=[], x=0):
             nb = nb + 1
         except IndexError:
             print("x bigger than length of list")
+            break
         except ValueError:
             pass
         except TypeError:
