@@ -7,3 +7,5 @@ Write a class Square that defines a square by private instance attribute size. S
 if size is less than 0, raise a ValueError exception with the message size must be >= 0
 ## 3-square.py
 Write a class Square that defines a square by private instance attribute size. Size must be an integer, otherwise raise a TypeError exception with the message size must be an integer if size is less than 0, raise a ValueError exception with the message size must be >= 0. Calculate the area of the square.
+## 4-square.py
+Write a class Square that defines a square by private instance attribute size. Size must be an integer, otherwise raise a TypeError exception with the message size must be an integer if size is less than 0, raise a ValueError exception with the message size must be >= 0. Calculate the area of the square. Use property and property setter.
