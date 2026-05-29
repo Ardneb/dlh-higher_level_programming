@@ -93,5 +93,4 @@ class Rectangle:
         """
         Class method that returns a new Rectangle instance
         """
-        cls.width = size
-        cls.height = size
+        cls.size = size
